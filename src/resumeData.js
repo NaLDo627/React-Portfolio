@@ -50,7 +50,7 @@ let resumeData = {
         "Achievements":"Implement core logic defined in Java on the back end and JavaScript on the front in a web application using the Spring Framework"
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"Here is my skills",
     "skills":[
       {
         "displayname": "Java",
