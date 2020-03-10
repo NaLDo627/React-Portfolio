@@ -119,6 +119,8 @@ header .scrolldown a {
 }
 header .scrolldown a:hover { color: #11ABB0; }
 
+
+
 /* primary navigation
 --------------------------------------------------------------------- */
 #nav-wrap ul, #nav-wrap li, #nav-wrap a {
@@ -150,9 +152,10 @@ ul#nav {
    width: auto;
 
    /* center align the menu */
-   text-align: center;
+   /* text-align: center; */
 }
-ul#nav li {
+
+ul#nav li{
    position: relative;
    list-style: none;
    height: 48px;
