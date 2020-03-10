@@ -355,6 +355,21 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
+.java {
+   width: 70%;
+   -moz-animation: java 2s ease;
+   -webkit-animation: java 2s ease;
+}
+.spring {
+   width: 60%;
+   -moz-animation: spring 2s ease;
+   -webkit-animation: spring 2s ease;
+}
+.javascript {
+   width: 70%;
+   -moz-animation: javascript 2s ease;
+   -webkit-animation: javascript 2s ease;
+}
 
 @-moz-keyframes photoshop {
   0%   { width: 0px;  }
@@ -380,6 +395,18 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
+@-moz-keyframes java {
+   0%   { width: 0px;  }
+   100% { width: 70%;  }
+ }
+ @-moz-keyframes spring {
+   0%   { width: 0px;  }
+   100% { width: 60%;  }
+ }
+ @-moz-keyframes javascript {
+   0%   { width: 0px;  }
+   100% { width: 70%;  }
+ }
 
 @-webkit-keyframes photoshop {
   0%   { width: 0px;  }
@@ -405,6 +432,18 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
+@-webkit-keyframes java {
+   0%   { width: 0px;  }
+   100% { width: 70%;  }
+ }
+ @-webkit-keyframes spring {
+   0%   { width: 0px;  }
+   100% { width: 60%;  }
+ }
+ @-webkit-keyframes javascript {
+   0%   { width: 0px;  }
+   100% { width: 70%;  }
+ }
 
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section
