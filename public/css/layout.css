@@ -594,7 +594,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #call-to-action h1 span { display: none; }
 #call-to-action .header-col h1:before {
-   font-family: 'FontAwesome';
+   font-family: 'Font Awesome 5 Free';
    content: "\f0ac";
 	padding-right: 10px;
 	font-size: 72px;
@@ -807,7 +807,7 @@ call-to-action .button {
 }
 #contact h1 span { display: none; }
 #contact h1:before {
-   font-family: 'FontAwesome';
+   font-family: 'Font Awesome 5 Free';
    content: "\f0e0";
 	padding-right: 10px;
 	font-size: 72px;
