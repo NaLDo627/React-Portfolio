@@ -1,10 +1,10 @@
 let resumeDataKo = {
     "imagebaseurl":"https://velog.io/@hygoogi",
     "name": "박 현 국",
-    "role": "Backend Developer and Frontend Developer (Web)",
+    "role": "백엔드 개발자와 프론트엔드 개발자",
     "linkedinId":"hyunkook-park",
     "skypeid": "Your skypeid",
-    "roleDescription": " I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": " 계속해서 공부하는 것을 좋아하고, 게임을 좋아합니다.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -22,25 +22,25 @@ let resumeDataKo = {
           "className":"fab fa-vimeo"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "aboutme":"가천대학교 컴퓨터공학과 졸업생으로, 현재 구직활동을 하고 있습니다.",
     "address":"Korea, Republic of",
     "website":"https://velog.io/@hygoogi",
     "education":[
       {
-        "UniversityName":"Gachon University",
-        "specialization":"Computer Engineering (Software)",
+        "UniversityName":"가천대학교",
+        "specialization":"컴퓨터공학과",
         "MonthOfPassing":"Febuary",
         "YearOfPassing":"2020",
-        "Achievements":"Bachelor's degree"
+        "Achievements":"학사"
       }
     ],
     "work":[
       {
-        "CompanyName":"Kakao Corp",
+        "CompanyName":"(주)카카오",
         "specialization":"Spring Boot, JPA Transaction, MySQL",
         "MonthOfLeaving":"Febuary",
         "YearOfLeaving":"2020",
-        "Achievements":"Safe handling of concurrency issue with JPA transaction."
+        "Achievements":"JPA 트랜잭션을 사용한 동시성 이슈 제어"
       },
       {
         "CompanyName":"Withcat Corp",
