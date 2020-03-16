@@ -1,7 +1,7 @@
 let resumeDataEn = {
     "imagebaseurl":"https://velog.io/@hygoogi",
     "name": "Hyunkook Park",
-    "role": "Backend Developer and Frontend Developer (Web)",
+    "role": "I am a Backend Developer and Frontend Developer (Web)",
     "linkedinId":"hyunkook-park",
     "skypeid": "Your skypeid",
     "roleDescription": " I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
