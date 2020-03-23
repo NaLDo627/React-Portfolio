@@ -1,7 +1,7 @@
 let resumeDataKo = {
     "imagebaseurl":"https://velog.io/@hygoogi",
     "name": "박 현 국",
-    "role": "백엔드 개발자와 프론트엔드 개발자",
+    "role": "JAVA 웹 백엔드 개발자",
     "linkedinId":"hyunkook-park",
     "skypeid": "Your skypeid",
     "roleDescription": " 계속해서 공부하는 것을 좋아하고, 게임을 좋아합니다.",
@@ -40,7 +40,7 @@ let resumeDataKo = {
         "specialization":"Spring, JPA Transaction, MySQL",
         "MonthOfLeaving":"-",
         "YearOfLeaving":"-",
-        "Achievements":"JAVA 웹 백엔드 개발 유지보수"
+        "Achievements":"도넛라이프 서비스 JAVA 백엔드 유지보수 업무 투입"
       },
       {
         "CompanyName":"(주)카카오",
