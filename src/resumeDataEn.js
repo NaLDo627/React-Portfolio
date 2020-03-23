@@ -2,7 +2,8 @@ let resumeDataEn = {
     "imagebaseurl":"https://velog.io/@hygoogi",
     "name": "Hyunkook Park",
     "role": "I am a JAVA Backend Developer (Web)",
-    "linkedinId":"hyunkook-park",
+    "email":"naruhodo627@gmail.com",
+    "phone":"+8210-6309-4720",
     "skypeid": "Your skypeid",
     "roleDescription": " I like dabbling in various parts of backend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
     "socialLinks":[
@@ -36,10 +37,10 @@ let resumeDataEn = {
     ],
     "work":[
       {
-        "CompanyName":"YLLand",
+        "CompanyName":"YLLand Corp",
         "specialization":"Spring, JPA Transaction, MySQL",
         "MonthOfLeaving":"-",
-        "YearOfLeaving":"-",
+        "YearOfLeaving":"현재",
         "Achievements":"Service maintance of Donut life service's Back-end development."
       },
       {
@@ -66,6 +67,14 @@ let resumeDataEn = {
       {
         "displayname": "Spring",
         "skillname":"Spring"
+      },
+      {
+        "displayname": "Python",
+        "skillname":"Python"
+      },
+      {
+        "displayname": "C++",
+        "skillname":"Cpp"
       },
       {
         "displayname": "Reactjs",
@@ -96,12 +105,12 @@ let resumeDataEn = {
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"It's too late when you think that it's too late.",
+        "name":"Myeongsoo Park (Korean Singer)"
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"Action is always better than talk.",
+        "name":"Vigil"
       }
     ]
   }

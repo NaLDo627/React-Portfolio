@@ -2,9 +2,10 @@ let resumeDataKo = {
     "imagebaseurl":"https://velog.io/@hygoogi",
     "name": "박 현 국",
     "role": "JAVA 웹 백엔드 개발자",
-    "linkedinId":"hyunkook-park",
+    "email":"naruhodo627@gmail.com",
+    "phone":"010-6309-4720",
     "skypeid": "Your skypeid",
-    "roleDescription": " 계속해서 공부하는 것을 좋아하고, 게임을 좋아합니다.",
+    "roleDescription": "새로운 기술에 항상 관심이 많고, 공부하는 것을 좋아하며, 여가시간에는 게임을 즐겨합니다.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -39,7 +40,7 @@ let resumeDataKo = {
         "CompanyName":"(주)와이엘랜드",
         "specialization":"Spring, JPA Transaction, MySQL",
         "MonthOfLeaving":"-",
-        "YearOfLeaving":"-",
+        "YearOfLeaving":"Now",
         "Achievements":"도넛라이프 서비스 JAVA 백엔드 유지보수 업무 투입"
       },
       {
@@ -50,14 +51,14 @@ let resumeDataKo = {
         "Achievements":"JPA 트랜잭션을 사용한 동시성 이슈 제어"
       },
       {
-        "CompanyName":"Withcat Corp",
+        "CompanyName":"(주)위드캣",
         "specialization":"Spring Framework",
         "MonthOfLeaving":"December",
         "YearOfLeaving":"2019",
         "Achievements":"스프링 프레임워크를 사용한 웹 어플리케이션 개발에서 JAVA로 웹 백엔드 코어 로직 작성"
       }
     ],
-    "skillsDescription":"Here is my skills",
+    "skillsDescription":"사용가능한 기술",
     "skills":[
       {
         "displayname": "Java",
@@ -66,6 +67,14 @@ let resumeDataKo = {
       {
         "displayname": "Spring",
         "skillname":"Spring"
+      },
+      {
+        "displayname": "Python",
+        "skillname":"Python"
+      },
+      {
+        "displayname": "C++",
+        "skillname":"Cpp"
       },
       {
         "displayname": "Reactjs",
@@ -96,12 +105,12 @@ let resumeDataKo = {
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"늦었다고 생각할 때가 진짜 늦었다.",
+        "name":"박명수"
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"말보다는 행동이지",
+        "name":"Vigil"
       }
     ]
   }
