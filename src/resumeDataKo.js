@@ -5,7 +5,7 @@ let resumeDataKo = {
     "email":"naruhodo627@gmail.com",
     "phone":"010-6309-4720",
     "skypeid": "Your skypeid",
-    "roleDescription": "새로운 기술에 항상 관심이 많고, 공부하는 것을 좋아하며, 여가시간에는 게임을 즐겨합니다.",
+    "roleDescription": "새로운 기술에 항상 관심이 많고, 공부하는 것을 좋아합니다.",
     "socialLinks":[
         {
           "name":"linkedin",
