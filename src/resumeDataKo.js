@@ -83,24 +83,24 @@ let resumeDataKo = {
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"은행 입출금 시스템",
+        "description":"Spring과 JPA를 사용한 은행 입출금 시스템",
+        "imgurl":"/images/portfolio/phone.jpg"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"게임 리플레이 UI 모듈",
+        "description":"온라인 상에서 PUBG, LOL 등의 E-Sports 게임의 리플레이를 볼 수 있는 모듈",
+        "imgurl":"/images/portfolio/project.jpg"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"움짤(GIF) 생성 서버",
+        "description":"여러 장의 이미지를 업로드하여, 하나의 움짤을 만들 수 있는 서버",  
+        "imgurl":"/images/portfolio/project2.png"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"웹플리케이션 - 온라인 도구 모음",
+        "description":"이미지, 동영상 편집 등의 도구를 하나로 모은 서버",
+        "imgurl":"/images/portfolio/phone.jpg"
       }
     ],
     "testimonials":[

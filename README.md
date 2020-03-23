@@ -1,3 +1,12 @@
+# 박현국의 포트폴리오 저장소
+저의 포트폴리오 git 저장소입니다.
+
+홈페이지 : <https://portfolio.hkpark.net>
+
+아래는 원본 Readme 입니다.
+
+-----
+
 [![HitCount](http://hits.dwyl.io/rbhatia46/React-Portfolio.svg)](http://hits.dwyl.io/rbhatia46/React-Portfolio)
 
 

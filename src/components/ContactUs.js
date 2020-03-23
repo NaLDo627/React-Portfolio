@@ -14,10 +14,10 @@ export default class ContactUs extends Component {
           <div className="row">
             <aside className="eigth columns footer-widgets">
               <div className="widget">
-                <h4>Email : 
+                <h4>Email :&nbsp;
                   {resumeData.email}
                 </h4>
-                <h4>Phone : 
+                <h4>Phone :&nbsp;
                   {resumeData.phone}
                 </h4>
               </div>
