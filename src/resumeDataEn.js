@@ -40,7 +40,7 @@ let resumeDataEn = {
         "CompanyName":"YLLand Corp",
         "specialization":"Spring, JPA Transaction, MySQL",
         "MonthOfLeaving":"-",
-        "YearOfLeaving":"현재",
+        "YearOfLeaving":"Now",
         "Achievements":"Service maintance of Donut life service's Back-end development."
       },
       {
@@ -48,14 +48,14 @@ let resumeDataEn = {
         "specialization":"Spring Boot, JPA Transaction, MySQL",
         "MonthOfLeaving":"Febuary",
         "YearOfLeaving":"2020",
-        "Achievements":"Safe handling of concurrency issue with JPA transaction."
+        "Achievements":"Internship - Safe handling of concurrency issue with JPA transaction."
       },
       {
         "CompanyName":"Withcat Corp",
         "specialization":"Spring Framework",
         "MonthOfLeaving":"December",
         "YearOfLeaving":"2019",
-        "Achievements":"Implement core logic defined in Java on the back end and JavaScript on the front in a web application using the Spring Framework"
+        "Achievements":"Part-time job - Implement core logic defined in Java on the back end and JavaScript on the front in a web application using the Spring Framework"
       }
     ],
     "skillsDescription":"Here is my skills",

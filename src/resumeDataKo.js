@@ -40,7 +40,7 @@ let resumeDataKo = {
         "CompanyName":"(주)와이엘랜드",
         "specialization":"Spring, JPA Transaction, MySQL",
         "MonthOfLeaving":"-",
-        "YearOfLeaving":"Now",
+        "YearOfLeaving":"현재",
         "Achievements":"도넛라이프 서비스 JAVA 백엔드 유지보수 업무 투입"
       },
       {
@@ -48,14 +48,14 @@ let resumeDataKo = {
         "specialization":"Spring Boot, JPA Transaction, MySQL",
         "MonthOfLeaving":"Febuary",
         "YearOfLeaving":"2020",
-        "Achievements":"JPA 트랜잭션을 사용한 동시성 이슈 제어"
+        "Achievements":"인턴 과제 - JPA 트랜잭션을 사용한 동시성 이슈 제어"
       },
       {
         "CompanyName":"(주)위드캣",
         "specialization":"Spring Framework",
         "MonthOfLeaving":"December",
         "YearOfLeaving":"2019",
-        "Achievements":"스프링 프레임워크를 사용한 웹 어플리케이션 개발에서 JAVA로 웹 백엔드 코어 로직 작성"
+        "Achievements":"아르바이트 - 스프링 프레임워크를 사용한 웹 어플리케이션 개발에서 JAVA로 웹 백엔드 코어 로직 작성"
       }
     ],
     "skillsDescription":"사용가능한 기술",
