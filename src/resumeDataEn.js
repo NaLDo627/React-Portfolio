@@ -1,10 +1,10 @@
 let resumeDataEn = {
     "imagebaseurl":"https://velog.io/@hygoogi",
     "name": "Hyunkook Park",
-    "role": "I am a Backend Developer and Frontend Developer (Web)",
+    "role": "I am a JAVA Backend Developer (Web)",
     "linkedinId":"hyunkook-park",
     "skypeid": "Your skypeid",
-    "roleDescription": " I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": " I like dabbling in various parts of backend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -35,6 +35,13 @@ let resumeDataEn = {
       }
     ],
     "work":[
+      {
+        "CompanyName":"YLLand",
+        "specialization":"Spring, JPA Transaction, MySQL",
+        "MonthOfLeaving":"-",
+        "YearOfLeaving":"-",
+        "Achievements":"Service maintance of Donut life service's Back-end development."
+      },
       {
         "CompanyName":"Kakao Corp",
         "specialization":"Spring Boot, JPA Transaction, MySQL",

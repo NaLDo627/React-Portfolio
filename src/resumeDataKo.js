@@ -22,7 +22,7 @@ let resumeDataKo = {
           "className":"fab fa-vimeo"
         }
       ],
-    "aboutme":"가천대학교 컴퓨터공학과 졸업생으로, 현재 구직활동을 하고 있습니다.",
+    "aboutme":"가천대학교 컴퓨터공학과 졸업생으로, 현재 와이엘랜드에서 JAVA 웹 개발자 업무를 하고 있습니다.",
     "address":"Korea, Republic of",
     "website":"https://velog.io/@hygoogi",
     "education":[
@@ -36,6 +36,13 @@ let resumeDataKo = {
     ],
     "work":[
       {
+        "CompanyName":"(주)와이엘랜드",
+        "specialization":"Spring, JPA Transaction, MySQL",
+        "MonthOfLeaving":"-",
+        "YearOfLeaving":"-",
+        "Achievements":"JAVA 웹 백엔드 개발 유지보수"
+      },
+      {
         "CompanyName":"(주)카카오",
         "specialization":"Spring Boot, JPA Transaction, MySQL",
         "MonthOfLeaving":"Febuary",
@@ -47,7 +54,7 @@ let resumeDataKo = {
         "specialization":"Spring Framework",
         "MonthOfLeaving":"December",
         "YearOfLeaving":"2019",
-        "Achievements":"Implement core logic defined in Java on the back end and JavaScript on the front in a web application using the Spring Framework"
+        "Achievements":"스프링 프레임워크를 사용한 웹 어플리케이션 개발에서 JAVA로 웹 백엔드 코어 로직 작성"
       }
     ],
     "skillsDescription":"Here is my skills",
